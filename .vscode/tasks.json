@@ -45,6 +45,15 @@
                 "kind": "test",
                 "isDefault": true
             }
+        },
+        {
+            "label": "🏃‍➡️ pytest-bdd",
+            "type": "shell",
+            "command": "cd pytest_bdd && uv run pytest",
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            }
         }
     ]
 }

@@ -1,0 +1,6 @@
+[project]
+name = "pytest-bdd-playground"
+version = "0.1.0"
+dependencies = [
+    "pytest-bdd>=8.1.0",
+]
